@@ -19,7 +19,7 @@ Content
 - python
    - [python入门](https://github.com/CvRocker/jupyter-notebook/blob/master/python/python-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.ipynb)
 - cnn
-   - [conv-ops.ipynb]()
+   - [conv-ops.ipynb](https://github.com/CvRocker/jupyter-notebook/blob/master/cnn/conv-ops.ipynb)
 
 
 ## Requirments
